@@ -1,4 +1,4 @@
-# Spaghettio's Parser by Kyle Levy
+# Spaghettio's Parser
 import pandas as pd
 import numpy as np
 # Grab Contents of input file
